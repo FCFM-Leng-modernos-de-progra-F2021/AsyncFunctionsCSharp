@@ -1,0 +1,13 @@
+C:\Users\Rolando\source\repos\AsyncFunctionsCSharp\AsyncFunctionsCSharp\bin\Debug\netcoreapp3.1\AsyncFunctionsCSharp.exe
+C:\Users\Rolando\source\repos\AsyncFunctionsCSharp\AsyncFunctionsCSharp\bin\Debug\netcoreapp3.1\AsyncFunctionsCSharp.deps.json
+C:\Users\Rolando\source\repos\AsyncFunctionsCSharp\AsyncFunctionsCSharp\bin\Debug\netcoreapp3.1\AsyncFunctionsCSharp.runtimeconfig.json
+C:\Users\Rolando\source\repos\AsyncFunctionsCSharp\AsyncFunctionsCSharp\bin\Debug\netcoreapp3.1\AsyncFunctionsCSharp.runtimeconfig.dev.json
+C:\Users\Rolando\source\repos\AsyncFunctionsCSharp\AsyncFunctionsCSharp\bin\Debug\netcoreapp3.1\AsyncFunctionsCSharp.dll
+C:\Users\Rolando\source\repos\AsyncFunctionsCSharp\AsyncFunctionsCSharp\bin\Debug\netcoreapp3.1\AsyncFunctionsCSharp.pdb
+C:\Users\Rolando\source\repos\AsyncFunctionsCSharp\AsyncFunctionsCSharp\obj\Debug\netcoreapp3.1\AsyncFunctionsCSharp.csprojAssemblyReference.cache
+C:\Users\Rolando\source\repos\AsyncFunctionsCSharp\AsyncFunctionsCSharp\obj\Debug\netcoreapp3.1\AsyncFunctionsCSharp.AssemblyInfoInputs.cache
+C:\Users\Rolando\source\repos\AsyncFunctionsCSharp\AsyncFunctionsCSharp\obj\Debug\netcoreapp3.1\AsyncFunctionsCSharp.AssemblyInfo.cs
+C:\Users\Rolando\source\repos\AsyncFunctionsCSharp\AsyncFunctionsCSharp\obj\Debug\netcoreapp3.1\AsyncFunctionsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\source\repos\AsyncFunctionsCSharp\AsyncFunctionsCSharp\obj\Debug\netcoreapp3.1\AsyncFunctionsCSharp.dll
+C:\Users\Rolando\source\repos\AsyncFunctionsCSharp\AsyncFunctionsCSharp\obj\Debug\netcoreapp3.1\AsyncFunctionsCSharp.pdb
+C:\Users\Rolando\source\repos\AsyncFunctionsCSharp\AsyncFunctionsCSharp\obj\Debug\netcoreapp3.1\AsyncFunctionsCSharp.genruntimeconfig.cache
